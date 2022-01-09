@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: OpenSSL/create-rsa-keypair-using-openssl.sh
+  checksum: 6c1bec41f4128af22cfe29674623e753d105a64701a7e5b11a7d96a1073e7637
+- filename: OpenSSL/generate-certificate-signing-request.sh
+  checksum: f2376bb4afecad9ac2c9faf08c95f6da155cb769a1651a6881830e992ab3eca5
